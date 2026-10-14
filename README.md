@@ -1,7 +1,12 @@
 # open_knee_joint_cad
-CAD file of the bio-inspired open knee joint with ligamentous constraints. The relevant publication is [DOI 10.1088/1748-3190/aeb0ea](https://doi.org/10.1088/1748-3190/aeb0ea)
+CAD file of the bio-inspired open knee joint with ligamentous constraints. 
+
 ![thumbnail](https://raw.githubusercontent.com/Qualot/open_knee_joint_cad/main/media/thumbnail.png)
 
+Shinsuke Nakashima*, Yilun Sun, Julius Ambros, Robin Schregle, Christoph Rehekampff, Qi An, Atsushi Yamashita, and Tim C. Lueth.  
+“Bio-inspired Open Ligamentous Knee Joint with Extended Pitch and Yaw Range of Motion.”  
+*Bioinspiration & Biomimetics*, vol. xx, xx, 2026.  
+https://doi.org/10.1088/1748-3190/aeb0ea
 
 ## Citation
 If you use the CAD for published research, please cite:

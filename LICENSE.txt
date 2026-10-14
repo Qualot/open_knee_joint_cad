@@ -1,0 +1,12 @@
+License
+
+Unless otherwise noted, the CAD files and documentation in this repository are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+To view a copy of this license, visit:
+https://creativecommons.org/licenses/by/4.0/
+
+Please provide appropriate credit to the original author and indicate if changes were made.
+
+Related publication: Bio-inspired Open Ligamentous Knee Joint with Extended Pitch and Yaw Range of Motion
+
+Suggested citation: shown on README.md.

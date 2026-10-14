@@ -1,5 +1,6 @@
 # open_knee_joint_cad
 CAD file of the bio-inspired open knee joint with ligamentous constraints. The relevant publication is [DOI 10.1088/1748-3190/aeb0ea](https://doi.org/10.1088/1748-3190/aeb0ea)
+![thumbnail](https://raw.githubusercontent.com/Qualot/open_knee_joint_cad/main/media/thumbnail.png)
 
 
 ## Citation

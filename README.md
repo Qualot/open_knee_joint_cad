@@ -5,7 +5,7 @@ CAD file of the bio-inspired open knee joint with ligamentous constraints.
 
 Shinsuke Nakashima*, Yilun Sun, Julius Ambros, Robin Schregle, Christoph Rehekampff, Qi An, Atsushi Yamashita, and Tim C. Lueth.  
 “Bio-inspired Open Ligamentous Knee Joint with Extended Pitch and Yaw Range of Motion.”  
-*Bioinspiration & Biomimetics*, vol. xx, xx, 2026.  
+*Bioinspiration & Biomimetics*, vol. 21, no. 5, 2026.  
 https://doi.org/10.1088/1748-3190/aeb0ea
 
 ## Citation
